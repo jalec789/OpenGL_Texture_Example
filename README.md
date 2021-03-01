@@ -1,3 +1,3 @@
-CS130 Lab 3
+CS130 Lab 4
 
 glsl-texture
